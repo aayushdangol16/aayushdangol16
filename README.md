@@ -1,4 +1,5 @@
 ### Hi there 👋
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Aayush16.png)
 
 <!--
 **aayushdangol16/aayushdangol16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
